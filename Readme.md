@@ -8,6 +8,18 @@
 
 ## Self Hosted
 
+### Contao
+
+- Kein Shop System, nur ein CMS als Unterbau für zB Isotope
+- TESTEN!!!
+- [https://contao.org/de/](https://contao.org/de/)
+
+### Isotope Ecommerce
+
+- Nutzt Contao als Unterbau
+- TESTEN!!!
+- [https://www.isotopeecommerce.org/de/](https://www.isotopeecommerce.org/de/)
+
 ### Zen Cart
 
 - TESTEN!!!
@@ -71,12 +83,12 @@
 
 ### Open Cart
 
-- TEST STEHT AUS!!!
+- TESTEN!!!
 - [https://www.opencart.com/index.php?route=cms/download](https://www.opencart.com/index.php?route=cms/download)
 
 ### OSCommerce
 
-- TEST STEHT AUS!!!
+- TESTEN!!!
 - [https://www.oscommerce.com/download-oscommerce](https://www.oscommerce.com/download-oscommerce)
 
 ### Shopware
@@ -106,7 +118,7 @@
 
 ### Cubecart
 
-- TEST STEHT AUS!!!
+- TESTEN!!!
 - [https://www.cubecart.com/download](https://www.cubecart.com/download)
 
 ## Hosted
@@ -227,12 +239,41 @@
 - Keinerlei Preise einsehbar.
 - Wird individuell an den Kunden angepasst.
 
-Noch ansehen:
-https://www.fuer-gruender.de/wissen/unternehmen-fuehren/e-commerce/shopsysteme/
-https://www.webshop-anbieter.de/shopsysteme-vergleich/
-https://omr.com/de/reviews/contenthub/beste-shopsysteme
-https://onlineshops.de/shopsysteme/
-https://www.yedi.de/preis
-https://contao.store/
-https://www.isotopeecommerce.org/de/features.html
-https://www.tooltester.com/de/shopsysteme/
+### commercetools
+
+- Cloud Basierend
+- Keine Preise einsehbar.
+- Alles auf Anfrage.
+- Inkl. Datastore!
+
+### Ecwid
+
+- SaaS
+- Basiert auf Lightspeed
+- Für unsere Zwecke kosten von 99€ / Monat
+
+### Strato Webshop
+
+- 34€ / Monat
+- Inkl. "Abmahnschutz" (Immer aktuelle Rechtstexte in AGB, Datenschutzerklärung, Widerrufserklärung etc.)
+- Bis zu 200.000 Artikel
+- Import / Export Funktionen vorhanden, keinerlei Infos, in welchem Umfang.
+- 150 GB Speicher / unlimitierter Traffic.
+
+### IONOS
+
+- Unbegrenzte Produkte
+- CSV Import
+- 75€ / Monat
+
+## Unbekannt
+
+### Spryker
+
+- Keine Informationen über Hosting oder Preise.
+
+### Yedi
+
+- Kein Shopsystem!
+- Konnektor für Shopware
+- Kosten ab 89€ / Monat
