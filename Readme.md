@@ -226,3 +226,13 @@
 - Keine Infos über Import Möglichkeiten
 - Keinerlei Preise einsehbar.
 - Wird individuell an den Kunden angepasst.
+
+Noch ansehen:
+https://www.fuer-gruender.de/wissen/unternehmen-fuehren/e-commerce/shopsysteme/
+https://www.webshop-anbieter.de/shopsysteme-vergleich/
+https://omr.com/de/reviews/contenthub/beste-shopsysteme
+https://onlineshops.de/shopsysteme/
+https://www.yedi.de/preis
+https://contao.store/
+https://www.isotopeecommerce.org/de/features.html
+https://www.tooltester.com/de/shopsysteme/
