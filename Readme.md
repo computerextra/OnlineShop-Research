@@ -11,18 +11,18 @@
 ### Contao
 
 - Kein Shop System, nur ein CMS als Unterbau für zB Isotope
-- TESTEN!!!
+- Siehe Tested.md
 - [https://contao.org/de/](https://contao.org/de/)
 
 ### Isotope Ecommerce
 
 - Nutzt Contao als Unterbau
-- TESTEN!!!
+- Siehe Tested.md
 - [https://www.isotopeecommerce.org/de/](https://www.isotopeecommerce.org/de/)
 
 ### Zen Cart
 
-- TESTEN!!!
+- Siehe Tested.md
 - [https://www.zen-cart-pro.at/knowledgebase/zen-cart-deutsch-grundsystem/](https://www.zen-cart-pro.at/knowledgebase/zen-cart-deutsch-grundsystem/)
 
 ### Xt:Commerce
@@ -83,12 +83,12 @@
 
 ### Open Cart
 
-- TESTEN!!!
+- Siehe Tested.md
 - [https://www.opencart.com/index.php?route=cms/download](https://www.opencart.com/index.php?route=cms/download)
 
 ### OSCommerce
 
-- TESTEN!!!
+- Siehe Tested.md
 - [https://www.oscommerce.com/download-oscommerce](https://www.oscommerce.com/download-oscommerce)
 
 ### Shopware
@@ -118,7 +118,7 @@
 
 ### Cubecart
 
-- TESTEN!!!
+- Siehe Tested.md
 - [https://www.cubecart.com/download](https://www.cubecart.com/download)
 
 ## Hosted
