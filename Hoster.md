@@ -66,7 +66,7 @@ Anruf bei Strato bezüglich der Import Funktion und anpassbarkeit des Frontends:
 | Import / Export Funktion      |   ✅ / ❎    |                 ✅ / ❎                 |                 ✅ / ✅                 |                 ✅ / ✅                 |
 
 Umfang des Imports wird nicht beschrieben.
-Auf Nachfrage bei Ionos habe ich folgende Antworten bekommen:
+Auf Nachfrage bei Ionos habe ich folgende Antworten bekommen: <br>
 Frage: Ihr schreibt, dass es möglich ist, Artikel zu Importieren, in welchem Umfang findet dieser Import statt? Wir bekommen von unserem Großhändler Artikellisten mit allen Informationen über den Artikel und auch Links zu Produktbildern. Kann man den Artikelimport bei euch soweit anpassen, dass dieser das vorhandene Format der CSV Dateien annimmt?
 
 Antwort: Ja, die Shops haben Schnittstellen zum Im und Export von solchen CSV Dateien, je nach Tarif Import oder auch Export.
