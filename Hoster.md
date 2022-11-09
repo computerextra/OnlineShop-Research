@@ -4,21 +4,21 @@
 
 ### Verfügbare Pakete (Webshop Now)
 
-| Features                 |       Basic        |        Plus        |        Pro         |      Ultimate      |
-| ------------------------ | :----------------: | :----------------: | :----------------: | :----------------: |
-| Kosten pro Monat         |        10€         |        25€         |        34€         |        70€         |
-| Einrichtung              |        10€         |         0€         |        10€         |        10€         |
-| Maximale Produkte        |      200.000       |      200.000       |      200.000       |      200.000       |
-| Inklusiv Domains         |         2          |         3          |         4          |         8          |
-| Responsive Design        | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| SSL-Zertifikate          |         1          |         1          |         1          |         1          |
-| Speicherplatz            |       100GB        |       150GB        |       200GB        |       350GB        |
-| Traffic                  |    unlimitiert     |    unlimitiert     |    unlimitiert     |    unlimitiert     |
-| Sprachen                 |         1          |         1          |         2          |         14         |
-| Abmahnschutz\*           |         ❎         |        [ ]         |        [ ]         |        [ ]         |
-| App Store                | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| Cross Selling            |        [ ]         | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| Import / Export Funktion | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| Features                 |    Basic    |    Plus     |     Pro     |  Ultimate   |
+| ------------------------ | :---------: | :---------: | :---------: | :---------: |
+| Kosten pro Monat         |     10€     |     25€     |     34€     |     70€     |
+| Einrichtung              |     10€     |     0€      |     10€     |     10€     |
+| Maximale Produkte        |   200.000   |   200.000   |   200.000   |   200.000   |
+| Inklusiv Domains         |      2      |      3      |      4      |      8      |
+| Responsive Design        |     ✅      |     ✅      |     ✅      |     ✅      |
+| SSL-Zertifikate          |      1      |      1      |      1      |      1      |
+| Speicherplatz            |    100GB    |    150GB    |    200GB    |    350GB    |
+| Traffic                  | unlimitiert | unlimitiert | unlimitiert | unlimitiert |
+| Sprachen                 |      1      |      1      |      2      |     14      |
+| Abmahnschutz\*           |     ❎      |     ❎      |     ❎      |     ❎      |
+| App Store                |     ✅      |     ✅      |     ✅      |     ✅      |
+| Cross Selling            |     ❎      |     ✅      |     ✅      |     ✅      |
+| Import / Export Funktion |     ✅      |     ✅      |     ✅      |     ✅      |
 
 - Kann kostenpflichtig dazu gebucht werden.
 
