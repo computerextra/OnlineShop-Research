@@ -24,10 +24,11 @@
 | Import / Export Funktion |     ✅      |     ✅      |     ✅      |     ✅      |
 
 - Kann kostenpflichtig dazu gebucht werden.
-
+<p>
 Anruf bei Strato bezüglich der Import Funktion und anpassbarkeit des Frontends:
 
 - Nach 15 Minuten niemanden erreicht, danach hat mein Telefon so stark gerauscht, das ich auflegen musste. (10:45 - 11:00)
+</p>
 
 ## All Inkl
 
@@ -65,20 +66,47 @@ Anruf bei Strato bezüglich der Import Funktion und anpassbarkeit des Frontends:
 | Layout                        | Vordefiniert | Prof. Template mit kompletter Anpassung | Prof. Template mit kompletter Anpassung | Prof. Template mit kompletter Anpassung |
 | Import / Export Funktion      |   ✅ / ❎    |                 ✅ / ❎                 |                 ✅ / ✅                 |                 ✅ / ✅                 |
 
-Umfang des Imports wird nicht beschrieben.
-Auf Nachfrage bei Ionos habe ich folgende Antworten bekommen: <br>
-Frage: Ihr schreibt, dass es möglich ist, Artikel zu Importieren, in welchem Umfang findet dieser Import statt? Wir bekommen von unserem Großhändler Artikellisten mit allen Informationen über den Artikel und auch Links zu Produktbildern. Kann man den Artikelimport bei euch soweit anpassen, dass dieser das vorhandene Format der CSV Dateien annimmt?
+<p>Umfang des Imports wird nicht beschrieben.</p>
+<p>
+Auf Nachfrage bei Ionos habe ich folgende Antworten bekommen: <br><br>
+<b>Frage:</b>
 
-Antwort: Ja, die Shops haben Schnittstellen zum Im und Export von solchen CSV Dateien, je nach Tarif Import oder auch Export.
-Frage: Das habe ich bereits geöffnet, deshalb die spezielleren Fragen zu dem Import der Dateien.
-Antwort: Der Shop Starter und Plus haben die Schnittstelle zum Import der CSV Datei und der Pro und Expert haben die Import und Export Funktion.
-Frage: Das weiß ich bereits. Aber in wie weit lassen sich der Import an unsere Bedürfnisse anpassen?
-Antwort: Hier finden Sie die Anleitungen dazu. https://support.website-editor.net/hc/de/search?utf8=%E2%9C%93&query=CSV+import&commit=Suchen
+- Ihr schreibt, dass es möglich ist, Artikel zu Importieren, in welchem Umfang findet dieser Import statt? Wir bekommen von unserem Großhändler Artikellisten mit allen Informationen über den Artikel und auch Links zu Produktbildern. Kann man den Artikelimport bei euch soweit anpassen, dass dieser das vorhandene Format der CSV Dateien annimmt?
 
+<b>Antwort:</b>
+
+- Ja, die Shops haben Schnittstellen zum Im und Export von solchen CSV Dateien, je nach Tarif Import oder auch Export.
+
+---
+
+<b>Frage:</b>
+
+- Das habe ich bereits geöffnet, deshalb die spezielleren Fragen zu dem Import der Dateien.
+
+<b>Antwort:</b>
+
+- Der Shop Starter und Plus haben die Schnittstelle zum Import der CSV Datei und der Pro und Expert haben die Import und Export Funktion.
+
+---
+
+<b>Frage:</b>
+
+- Das weiß ich bereits. Aber in wie weit lassen sich der Import an unsere Bedürfnisse anpassen?
+
+<b>Antwort:</b>
+
+- Hier finden Sie die Anleitungen dazu. https://support.website-editor.net/hc/de/search?utf8=%E2%9C%93&query=CSV+import&commit=Suchen
+
+---
+
+</p>
+<p>
 Die Anleitung ist ebenso kryptisch bezüglich Import:
-"Sie können Produkte in großen Mengen zu Ihrem StoreFront hinzufügen, indem Sie die Importfunktion verwenden. Wenn Sie eine CSV-Datei mit Ihren Produkten haben, laden Sie diese einfach in Ihr Store-Menü hoch, und die Produkte werden in Ihrem StoreFront angezeigt."
+"Sie können Produkte in großen Mengen zu Ihrem StoreFront hinzufügen, indem Sie die Importfunktion verwenden. Wenn Sie eine CSV-Datei mit Ihren Produkten haben, laden Sie diese einfach in Ihr Store-Menü hoch, und die Produkte werden in Ihrem StoreFront angezeigt."</p>
 
 #### Magento:
 
+<p>
 Wird durch Ionos als Hosting auf einem V-Server angeboten. Wartung, Updates, Security ist uns überlassen.
 Die kosten belaufen sich hierbei ab 16€ / Monat für einen Server, der die minimum Bedingungen von Magento abdeckt.
+</p>
