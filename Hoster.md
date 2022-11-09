@@ -3,7 +3,7 @@
 ## Strato
 
 [Link](https://www.strato.de/webshop/)  
-[Telefon](tel:0303001460)
+[030 / 300 14 60](tel:0303001460)
 
 ### Verfügbare Pakete (Webshop Now)
 
