@@ -33,7 +33,17 @@ Inhalt:
 Anruf bei Strato bezüglich der Import Funktion und anpassbarkeit des Frontends:
 
 - Nach 15 Minuten niemanden erreicht, danach hat mein Telefon so stark gerauscht, das ich auflegen musste. (10:45 - 11:00)
-</p>
+- Online Anleitung zum Webshop gefunden. [Anleitung PDF](https://www.strato.de/faq/files/de/Schnelleinstieg_STRATO_Webshop.pdf)
+- [Aktuelles "eBook" für den Shop](https://www.strato.de/blog/wp-content/uploads/2022/02/STRATO_eBook_Webshop_V2.1.pdf)
+  - Kunden von Strato -> [Super Streusel](https://www.superstreusel.de/), [Mio Boards](https://www.mioboards.com/), [Heimholz](https://www.heimholz.shop/)
+- Informationen über den Import: [https://www.strato.de/faq/webshop/wie-kann-ich-daten-in-meinen-webshop-importieren-bzw-exportieren/#Import](https://www.strato.de/faq/webshop/wie-kann-ich-daten-in-meinen-webshop-importieren-bzw-exportieren/#Import)
+
+  - Kurzfassung: <br>
+    - Der Import muss in dem Format vorliegen, wie der Export.
+    - Es gibt keine Beispieldatei. Die bekommt man erst mit einem Export aus einem bestehenden Shop.
+    - Import Datei darf maximal 100MB groß sein.
+
+  </p>
 
 ## All Inkl
 
