@@ -11,4 +11,4 @@
 
 ## Adobe Commerce
 
-- Antwort steht noch aus.
+- Rückmeldung seitens Adobe steht noch aus.
