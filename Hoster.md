@@ -15,7 +15,7 @@
 | Speicherplatz            |       100GB        |       150GB        |       200GB        |       350GB        |
 | Traffic                  |    unlimitiert     |    unlimitiert     |    unlimitiert     |    unlimitiert     |
 | Sprachen                 |         1          |         1          |         2          |         14         |
-| Abmahnschutz\*           |        [ ]         |        [ ]         |        [ ]         |        [ ]         |
+| Abmahnschutz\*           |         ❎         |        [ ]         |        [ ]         |        [ ]         |
 | App Store                | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Cross Selling            |        [ ]         | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Import / Export Funktion | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
