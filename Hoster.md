@@ -10,7 +10,7 @@
 | Einrichtung              |           10€           |     0€      |     10€     |     10€     |
 | Maximale Produkte        |         200.000         |   200.000   |   200.000   |   200.000   |
 | Inklusiv Domains         |            2            |      3      |      4      |      8      |
-| Responsive Design        | <ul><li>- [x]</li></ul> |     [x]     |     [x]     |     [x]     |
+| Responsive Design        | - [x]                   |     [x]     |     [x]     |     [x]     |
 | SSL-Zertifikate          |            1            |      1      |      1      |      1      |
 | Speicherplatz            |          100GB          |    150GB    |    200GB    |    350GB    |
 | Traffic                  |       unlimitiert       | unlimitiert | unlimitiert | unlimitiert |
